@@ -20,6 +20,7 @@ func isPrime(n int) bool {
 	}
 	return is
 }
+
 func main() {
 	before := time.Now()
 	sum := 0
